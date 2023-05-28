@@ -2,7 +2,11 @@
 
 An IT student and self-taught programmar who loves to code.
 
-<h3 align="left">Connect with me:</h3>
+## Some stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Tech" width="35" height="35"/>
+
+<img align="center" src="/github-metrics.svg" alt="Current Status" width="400">
+
+## Connect with me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Glob" width="15" height="15" />
 <p align="left">
 <a href="https://twitter.com/devx47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devx47" height="30" width="40" /></a>
 </p>
